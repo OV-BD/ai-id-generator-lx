@@ -1,0 +1,5 @@
+{
+  "name": "Instructional Design Assistant",
+  "description": "An AI-powered tool to help instructional designers, managers, and trainers create effective on-the-job training plans. By deconstructing a task into its core Knowledge, Skills, and Abilities (KSA), the assistant generates clear learning objectives and a structured, blended learning path.",
+  "requestFramePermissions": []
+}
